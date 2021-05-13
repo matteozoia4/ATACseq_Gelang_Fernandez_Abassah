@@ -99,6 +99,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         type bigWig
         color 0,204,102
         
+        
         track Gelang_GSM4473029
         parent ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         bigDataUrl https://de.cyverse.org/dl/d/0BEA10BC-F8F4-4400-B1A8-A24482653E12/GSM4473029-PC-ATAC-seq-rep3-align.bw
@@ -107,7 +108,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         type bigWig
         color 0,255,0
           
-
+          
         track Gelang_GSM4473030
         parent ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         bigDataUrl https://de.cyverse.org/dl/d/87EC3519-64CC-4B3A-AF07-850A0C7DCBCA/GSM4473030-PC-ATAC-seq-rep4-align.bw
@@ -115,3 +116,46 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         longLabel GSM4473030-PC-ATAC-seq-rep4-align
         type bigWig
         color 153,255,153
+
+
+track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
+    container multiWig
+    shortLabel Gelang_RACM
+    longLabel ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033  
+    type bigWig 0 30000
+    viewLimits 0:2
+    visibility full
+    maxHeightPixels 100:16:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    windowingFunction mean
+    configurable on
+    autoScale on
+    smoothingWindow 4
+   
+
+        track Gelang_GSM4473031
+        parent ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
+        bigDataUrl https://de.cyverse.org/dl/d/F9D9FC2D-C587-4A05-8B23-124C7894D589/GSM4473031-RACM-ATAC-seq-rep1-align.bw
+        shortLabel Gelang_GSM4473031
+        longLabel GSM4473031-RACM-ATAC-seq-rep1-align
+        type bigWig
+        color 0,153,0
+          
+
+        track Gelang_GSM4473032
+        parent ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
+        bigDataUrl https://de.cyverse.org/dl/d/247B0734-3077-43C8-985E-9ACCC4C298E9/GSM4473032-RACM-ATAC-seq-rep2-align.bw
+        shortLabel Gelang_GSM4473032
+        longLabel GSM4473032-RACM-ATAC-seq-rep2-align
+        type bigWig
+        color 0,204,102
+        
+        track Gelang_GSM4473033
+        parent ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
+        bigDataUrl https://de.cyverse.org/dl/d/35CEBC5C-E3BA-4782-A9E8-2FF3BF39F097/GSM4473033-RACM-ATAC-seq-rep3-align.bw
+        shortLabel Gelang_GSM4473033
+        longLabel GSM44733-RACM-ATAC-seq-rep3-align
+        type bigWig
+        color 153,255,153
+      
