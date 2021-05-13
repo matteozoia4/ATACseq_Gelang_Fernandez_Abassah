@@ -29,7 +29,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         shortLabel Abassah_GSM4860414
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
-        color 255,178,102
+        color 51,51,255
         
         
 track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
