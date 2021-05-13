@@ -20,7 +20,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         shortLabel Abassah_GSM4860413_
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac_align
         type bigWig
-        color 180,102,255
+        color 255,0,0
           
 
         track Abassah_GSM4860414_
@@ -29,5 +29,5 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         shortLabel Abassah_GSM4860414_
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
         type bigWig
-        color 136,102,255
+        color 255,153,153
              
