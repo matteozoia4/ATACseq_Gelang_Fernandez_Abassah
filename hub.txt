@@ -1,4 +1,4 @@
-hub ATACseqOverlay
+hub ATACseqOverlayAbassah
 shortLabel ATACseqOverlay
 longLabel ATACseqOverlayGelangFernandezAbassah
 genomesFile genomes.txt 
