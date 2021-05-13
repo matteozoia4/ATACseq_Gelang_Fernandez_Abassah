@@ -54,7 +54,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
         shortLabel Fernandez_GSM3529864
         longLabel GSM3529864-P0PM_1_S1_P0_12.5k_eHcn4_1_ATACseq-align
         type bigWig
-        color 255,0,0
+        color 255,0,255
           
 
         track Fernandez_GSM3529865
@@ -63,4 +63,4 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
         shortLabel Fernandez_GSM3529865
         longLabel GSM3529865-P0PM_2_S1_P0_12.5k_eHcn4_2_ATACseq-align
         type bigWig
-        color 255,153,153
+        color 255,153,255
