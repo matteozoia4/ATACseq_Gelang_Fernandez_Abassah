@@ -5,6 +5,40 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     type bigWig 0 30000
     viewLimits 0:2
     visibility full
+    maxHeightPixels 100:16:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    windowingFunction mean
+    configurable on
+    autoScale on
+    smoothingWindow 4
+   
+
+        track Abassah_GSM4860413_
+        parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414
+        bigDataUrl https://de.cyverse.org/dl/d/EFFA2508-119D-49E4-85F2-75940DC73919/LPMO_062317_1G_h_01_atac.rpm.bw
+        shortLabel Abassah_GSM4860413_
+        longLabel GSM4860413_LPMO_062317_1G_h_01_atac_align
+        type bigWig
+        color 255,0,0
+          
+
+        track Abassah_GSM4860414_
+        parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414
+        bigDataUrl https://de.cyverse.org/dl/d/B748C125-39F4-4593-8DBD-AEEC261C99E9/LPMO_062317_1H_h_02_atac.rpm.bw
+        shortLabel Abassah_GSM4860414_
+        longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
+        type bigWig
+        color 255,153,153
+     
+     
+track ATAC_Overlay_Abassah_
+    container multiWig
+    shortLabel Abassah
+    longLabel ATAC_Overlay_  
+    type bigWig 0 30000
+    viewLimits 0:2
+    visibility full
     maxHeightPixels 150:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -30,4 +64,3 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
         type bigWig
         color 255,153,153
-             
