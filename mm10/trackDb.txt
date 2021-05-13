@@ -1,7 +1,7 @@
 track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     container multiWig
-    shortLabel ATAC_Overlay
-    longLabel ATAC_Overlay_Gelang_Fernandez_Abassah  
+    shortLabel ATAC_Overlay_Abassah
+    longLabel ATAC_Overlay_GSM4860413_GSM4860414  
     type bigWig 0 30000
     viewLimits 0:100
     visibility full
