@@ -1,5 +1,2 @@
 genome mm10
 trackDb mm10/trackDb.txt
-
-genome mm10
-trackDb mm10/mytrackDb.txt
