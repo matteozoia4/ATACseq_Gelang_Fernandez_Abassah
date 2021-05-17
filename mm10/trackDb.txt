@@ -2,10 +2,10 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     container multiWig
     shortLabel Abassah_LPMO
     longLabel LPMO_GSM4860413_GSM4860414 
-    type bigWig 0 30000
+    type bigWig 
     viewLimits 0:2
     visibility full
-    maxHeightPixels 100:16:18
+    maxHeightPixels 30
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
