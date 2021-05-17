@@ -10,7 +10,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
     configurable on
-    autoScale on
+    autoScale off
     smoothingWindow off
    
 
@@ -44,7 +44,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
     configurable on
-    autoScale on
+    autoScale off
     smoothingWindow off
    
 
@@ -78,7 +78,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
     configurable on
-    autoScale on
+    autoScale off
     smoothingWindow off
    
 
@@ -112,7 +112,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
     configurable on
-    autoScale on
+    autoScale off
     smoothingWindow off
    
 
@@ -164,7 +164,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
     showSubtrackColorOnUi on
     windowingFunction mean+whiskers
     configurable on
-    autoScale on
+    autoScale off
     smoothingWindow off
    
 
