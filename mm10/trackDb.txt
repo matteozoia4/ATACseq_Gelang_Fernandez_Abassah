@@ -11,7 +11,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     windowingFunction mean
     configurable on
     autoScale on
-    smoothingWindow 4
+    smoothingWindow off
    
 
         track Abassah_GSM4860413
@@ -20,7 +20,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         shortLabel Abassah_GSM4860413
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
-        color 255,153,51
+        color 250,102,102
           
 
         track Abassah_GSM4860414
@@ -29,7 +29,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         shortLabel Abassah_GSM4860414
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
-        color 0,128,255
+        color 204,102,102
         
         
 track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
@@ -45,7 +45,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
     windowingFunction mean
     configurable on
     autoScale on
-    smoothingWindow 4
+    smoothingWindow off
    
 
         track Abassah_GSM4860413_
@@ -54,7 +54,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
         shortLabel Abassah_GSM4860413_
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac_align
         type bigWig
-        color 255,153,51
+        color 250,102,102
           
 
         track Abassah_GSM4860414_
@@ -63,7 +63,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
         shortLabel Abassah_GSM4860414_
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
         type bigWig
-        color 255,178,102
+        color 204,102,102
     
         
 track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
@@ -79,7 +79,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
     windowingFunction mean
     configurable on
     autoScale on
-    smoothingWindow 4
+    smoothingWindow off
    
 
         track Fernandez_GSM3529864
@@ -88,7 +88,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
         shortLabel Fernandez_GSM3529864
         longLabel GSM3529864-P0PM_1_S1_P0_12.5k_eHcn4_1_ATACseq-align
         type bigWig
-        color 255,0,255
+        color 204,102,255
           
 
         track Fernandez_GSM3529865
@@ -97,7 +97,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
         shortLabel Fernandez_GSM3529865
         longLabel GSM3529865-P0PM_2_S1_P0_12.5k_eHcn4_2_ATACseq-align
         type bigWig
-        color 255,153,255
+        color 153,102,204
 
 
 track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
@@ -113,7 +113,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
     windowingFunction mean
     configurable on
     autoScale on
-    smoothingWindow 4
+    smoothingWindow off
    
 
         track Gelang_GSM4473027
@@ -122,7 +122,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         shortLabel Gelang_GSM4473027
         longLabel GSM4473027-PC-ATAC-seq-rep1-align
         type bigWig
-        color 0,153,0
+        color 102,102,255
           
 
         track Gelang_GSM4473028
@@ -131,7 +131,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         shortLabel Gelang_GSM4473028
         longLabel GSM4473028-PC-ATAC-seq-rep2-align
         type bigWig
-        color 0,204,102
+        color 102,153,255
         
         
         track Gelang_GSM4473029
@@ -140,7 +140,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         shortLabel Gelang_GSM4473029
         longLabel GSM4473029-PC-ATAC-seq-rep3-align
         type bigWig
-        color 0,255,0
+        color 102,102,204
           
           
         track Gelang_GSM4473030
@@ -149,7 +149,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
         shortLabel Gelang_GSM4473030
         longLabel GSM4473030-PC-ATAC-seq-rep4-align
         type bigWig
-        color 153,255,153
+        color 102,153,204
 
 
 track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
@@ -165,7 +165,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
     windowingFunction mean
     configurable on
     autoScale on
-    smoothingWindow 4
+    smoothingWindow off
    
 
         track Gelang_GSM4473031
@@ -174,7 +174,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
         shortLabel Gelang_GSM4473031
         longLabel GSM4473031-RACM-ATAC-seq-rep1-align
         type bigWig
-        color 0,153,0
+        color 255,153,51
           
 
         track Gelang_GSM4473032
@@ -183,7 +183,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
         shortLabel Gelang_GSM4473032
         longLabel GSM4473032-RACM-ATAC-seq-rep2-align
         type bigWig
-        color 0,204,102
+        color 204,153,51
         
         
         track Gelang_GSM4473033
@@ -192,5 +192,5 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
         shortLabel Gelang_GSM4473033
         longLabel GSM44733-RACM-ATAC-seq-rep3-align
         type bigWig
-        color 153,255,153
+        color 153,153,102
       
