@@ -7,7 +7,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:2
-    viewLimitsMax 0:2
+    viewLimitsMax 0:20
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -45,7 +45,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:2
-    viewLimitsMax 0:2
+    viewLimitsMax 0:20
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -83,7 +83,7 @@ track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:2
-    viewLimitsMax 0:2
+    viewLimitsMax 0:20
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -121,7 +121,7 @@ track ATAC_Overlay_Gelang_GSM4473027_GSM4473028_GSM4473029_GSM4473030
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:2
-    viewLimitsMax 0:2
+    viewLimitsMax 0:20
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -177,7 +177,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:2
-    viewLimitsMax 0:2
+    viewLimitsMax 0:20
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
