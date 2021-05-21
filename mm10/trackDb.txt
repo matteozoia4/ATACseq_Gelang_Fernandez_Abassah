@@ -21,7 +21,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         track Abassah_GSM4860413
         parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         bigDataUrl https://de.cyverse.org/dl/d/82FBDB8A-C17B-47F5-854C-E4FC9327F32C/GSM4860413_LPMO_062317_1G_h_01_atac.trim.merged.nodup.tn5.pval.signal.mm10.bigwig
-        shortLabel Abassah_GSM4860413
+        shortLabel Abassah_GSM4860413_Encode
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
         color 250,102,102
@@ -38,7 +38,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
         
 track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
     container multiWig
-    shortLabel Abassah_LPMO_
+    shortLabel Abassah_LPMO_Encode
     longLabel Overlay_LPMO_GSM4860413_GSM4860414_  
     type bigWig 0 30000
     configurable on
@@ -71,7 +71,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
         shortLabel Abassah_GSM4860414_
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
         type bigWig
-        color 255,102,102
+        color 255,204,204
     
         
 track ATAC_Overlay_Fernandez_GSM3529864_GSM3529865
