@@ -20,7 +20,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
     
         track Abassah_GSM4860413
         parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414
-        bigDataUrl https://de.cyverse.org/dl/d/82FBDB8A-C17B-47F5-854C-E4FC9327F32C/GSM4860413_LPMO_062317_1G_h_01_atac.trim.merged.nodup.tn5.pval.signal.mm10.bigwig
+        bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b58c8ab8f1ef58c1a3/display?to_ext=bigwig
         shortLabel Abassah_GSM4860413_Encode
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
@@ -29,7 +29,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414
 
         track Abassah_GSM4860414
         parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414
-        bigDataUrl https://de.cyverse.org/dl/d/F1B0EEA7-ABDB-46D7-BB7B-E85F1E166EE9/GSM4860414_LPMO_062317_1H_h_02_atac.trim.merged.nodup.tn5.pval.signal.mm10.bigwig
+        bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b55dc2e2d6c60cce41/display?to_ext=bigwig
         shortLabel Abassah_GSM4860414
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac.trim.merged.nodup.tn5.pval.signal.mm10
         type bigWig
@@ -58,7 +58,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
 
         track Abassah_GSM4860413_
         parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
-        bigDataUrl https://de.cyverse.org/dl/d/EFFA2508-119D-49E4-85F2-75940DC73919/LPMO_062317_1G_h_01_atac.rpm.bw
+        bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b5571bbe6b4d76f636/display?to_ext=bigwig
         shortLabel Abassah_GSM4860413_
         longLabel GSM4860413_LPMO_062317_1G_h_01_atac_align
         type bigWig
@@ -67,7 +67,7 @@ track ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
 
         track Abassah_GSM4860414_
         parent ATAC_Overlay_Abassah_GSM4860413_GSM4860414_
-        bigDataUrl https://de.cyverse.org/dl/d/B748C125-39F4-4593-8DBD-AEEC261C99E9/LPMO_062317_1H_h_02_atac.rpm.bw
+        bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b57cb5ed7d76bc605e/display?to_ext=bigwig
         shortLabel Abassah_GSM4860414_
         longLabel GSM4860414_LPMO_062317_1H_h_02_atac_align
         type bigWig
