@@ -203,7 +203,7 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
         shortLabel Gelang_GSM4473032
         longLabel GSM4473032-RACM-ATAC-seq-rep2-align
         type bigWig
-        color 204,153,255
+        color 204,153,51
         
         
         track Gelang_GSM4473033
@@ -212,5 +212,5 @@ track ATAC_Overlay_Gelang_GSM4473031_GSM4473032_GSM4473033
         shortLabel Gelang_GSM4473033
         longLabel GSM44733-RACM-ATAC-seq-rep3-align
         type bigWig
-        color 204,204,255
+        color 153,153,102
       
